@@ -3499,16 +3499,16 @@ input, select, textarea {
 		}
 
 	#footer > .inner a {
-		border-bottom-color: #8CC63E;
+		border-bottom-color: #4D893F;
 	}
 
 		#footer > .inner a:hover {
-			border-bottom-color: #8CC63E;
+			border-bottom-color: #4D893F;
 		}
 
 	#footer > .inner .menu {
 		font-size: 0.8em;
-		color: #002400;
+		color: #4D893F;
 	}
 
 	#header + #wrapper + #footer > .inner {
