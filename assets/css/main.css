@@ -3499,7 +3499,7 @@ input, select, textarea {
 		}
 
 	#footer > .inner a {
-		border-bottom-color: rgba(125, 186, 132, 0.15);
+		border-bottom-color: #000000;
 	}
 
 		#footer > .inner a:hover {
