@@ -3499,7 +3499,7 @@ input, select, textarea {
 		}
 
 	#footer > .inner a {
-		border-bottom-color: #000000;
+		border-bottom-color: #8CC63E;
 	}
 
 		#footer > .inner a:hover {
@@ -3508,7 +3508,7 @@ input, select, textarea {
 
 	#footer > .inner .menu {
 		font-size: 0.8em;
-		color: rgba(125, 186, 132, 0.15);
+		color: #002400;
 	}
 
 	#header + #wrapper + #footer > .inner {
