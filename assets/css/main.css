@@ -3499,11 +3499,11 @@ input, select, textarea {
 		}
 
 	#footer > .inner a {
-		border-bottom-color: #000000;
+		border-bottom-color: #8CC63E;
 	}
 
 		#footer > .inner a:hover {
-			border-bottom-color: transparent;
+			border-bottom-color: #8CC63E;
 		}
 
 	#footer > .inner .menu {
