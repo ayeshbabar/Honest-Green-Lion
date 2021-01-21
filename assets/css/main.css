@@ -1910,7 +1910,7 @@ input, select, textarea {
 		button.primary,
 		.button.primary {
 			background-color: #ffffff;
-			color: #312450 !important;
+			color: #000000 !important;
 		}
 
 			input[type="submit"].primary:after,
@@ -1940,7 +1940,7 @@ input, select, textarea {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			border-color: rgba(255, 255, 255, 0.55) !important;
+			border-color: #000000 !important;
 		}
 
 			input[type="submit"]:hover:after,
@@ -1960,7 +1960,7 @@ input, select, textarea {
 			input[type="button"]:hover:active,
 			button:hover:active,
 			.button:hover:active {
-				border-color: #ffffff !important;
+				border-color: #000000 !important;
 			}
 
 				input[type="submit"]:hover:active:after,
@@ -2439,7 +2439,7 @@ input, select, textarea {
 		input[type="radio"]:checked + label:before {
 			background: #000000;
 			border-color: #000000;
-			color: #b74e91;
+			color: #000000;
 			content: '\f00c';
 		}
 
@@ -2520,7 +2520,7 @@ input, select, textarea {
 			display: block;
 			background: #000000;
 			border-radius: 100%;
-			color: #312450;
+			color: #000000;
 			text-align: center;
 			line-height: 2.5em;
 			margin: 0 0 1.3em 0;
