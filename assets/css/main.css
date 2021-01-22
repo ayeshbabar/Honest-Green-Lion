@@ -81,8 +81,8 @@ time,
 mark,
 audio,
 video {
-  margin: 1em;
-  padding: 1em;
+  margin: 0;
+  padding: 0;
   border: 0;
   font-size: 100%;
   font: inherit;
@@ -101,7 +101,11 @@ menu,
 nav,
 section {
   display: block;
-
+}
+.reflections {
+  padding: 2em;
+  margin: 1em;
+}
 
 body {
   line-height: 1;
