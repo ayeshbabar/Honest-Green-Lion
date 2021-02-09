@@ -3147,11 +3147,17 @@ body.is-ie .spotlights > section {
 }
 
 .spotlights > section:nth-child(2) {
-  background-color: rgba(0, 0, 0, 0.05);
+  background-color: #ffffff;
 }
 
 .spotlights > section:nth-child(3) {
-  background-color: rgba(0, 0, 0, 0.1);
+  background-color: #eeeeee;
+}
+.spotlights > section:nth-child(4) {
+  background-color: #ffffff;
+}
+.spotlights > section:nth-child(5) {
+  background-color: #eeeeee;
 }
 
 .spotlights > section.inactive > .image:before,
