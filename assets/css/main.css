@@ -3142,6 +3142,10 @@ body.is-ie .spotlights > section {
   opacity: 1;
 }
 
+.spotlights > section:nth-child(1) {
+  background-color: #eeeeee;
+}
+
 .spotlights > section:nth-child(2) {
   background-color: rgba(0, 0, 0, 0.05);
 }
