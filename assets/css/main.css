@@ -3074,8 +3074,13 @@ header h6 + p {
   -moz-flex-direction: row;
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
-  flex-direction: row;
+  flex-direction: column;
   min-height: 22.5em;
+}
+
+.reflections {
+  padding: 80px;
+  background-color: #eeeeee;
 }
 
 body.is-ie .spotlights > section {
@@ -3325,7 +3330,7 @@ table.alt tfoot {
 }
 
 .wrapper.style2 {
-  background-color: #eeeeee;
+  background-color: #ffffff;
 }
 
 .wrapper.style2-alt {
