@@ -3080,7 +3080,12 @@ header h6 + p {
 
 .reflections {
   padding: 80px;
-  background-color: #eeeeee;
+  background-color: #ffffff;
+}
+
+.process {
+  padding: 80px;
+  background-color: #ffffff;
 }
 
 body.is-ie .spotlights > section {
@@ -3330,7 +3335,7 @@ table.alt tfoot {
 }
 
 .wrapper.style2 {
-  background-color: #ffffff;
+  background-color: #eeeeee;
 }
 
 .wrapper.style2-alt {
