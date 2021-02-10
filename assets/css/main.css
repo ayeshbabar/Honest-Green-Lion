@@ -1924,9 +1924,9 @@ button,
   transition: border-color 0.2s ease;
   background-color: transparent;
   border: solid 1px !important;
-  border-color: #000000 !important;
+  border-color: #4d893f !important;
   border-radius: 3em;
-  color: #000000 !important;
+  color: #4d893f !important;
   cursor: pointer;
   display: inline-block;
   font-size: 0.6em;
