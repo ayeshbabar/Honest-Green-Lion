@@ -3450,7 +3450,7 @@ body.is-preload .wrapper.fade > .inner {
 
 #header > .title {
   border: 0;
-  color: #000000;
+  color: #7fff6e;
   display: block;
   font-size: 1.25em;
   font-weight: bold;
@@ -3495,7 +3495,7 @@ body.is-preload .wrapper.fade > .inner {
 }
 
 #header > nav > ul > li a.active {
-  color: #000000;
+  color: #7fff6e;
 }
 
 @media screen and (max-width: 736px) {
