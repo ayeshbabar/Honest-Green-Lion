@@ -242,7 +242,7 @@ a {
   -webkit-transition: color 0.2s ease, border-bottom-color 0.2s ease;
   -ms-transition: color 0.2s ease, border-bottom-color 0.2s ease;
   transition: color 0.2s ease, border-bottom-color 0.2s ease;
-  border-bottom: dotted 1px rgba(125, 186, 132, 0.35);
+  border-bottom: dotted 1px #4d893f;
   color: inherit;
   text-decoration: none;
 }
@@ -3271,7 +3271,7 @@ table.alt {
 }
 
 table.alt tbody tr td {
-  border: solid 1px #eeeeee;
+  border: solid 1px #dddddd;
   border-left-width: 0;
   border-top-width: 0;
 }
