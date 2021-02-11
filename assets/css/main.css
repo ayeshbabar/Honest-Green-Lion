@@ -3339,6 +3339,10 @@ table.alt tfoot {
   background-color: #eeeeee;
 }
 
+.para {
+  font-size: small;
+}
+
 .wrapper.style2 {
   background-color: #eeeeee;
 }
