@@ -3339,8 +3339,12 @@ table.alt tfoot {
   background-color: #eeeeee;
 }
 
+.heading-ref {
+  font-size: medium;
+}
+
 .para {
-  font-size: small;
+  font-size: smaller;
 }
 
 .wrapper.style2 {
